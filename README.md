@@ -23,7 +23,7 @@ This application deals with auctioning ART on the block chain. The blockchain ma
 * Artists (ART)
 
 The typical business process is shown below
-![Business Process](docs/images/art_process.png)
+![Business Process](docs/images/SNAG-004.jpg)
 
 1. Artists, Traders, Dealers own ART items
 2. To trade on the block chain, the stakeholder has to open an account on the block chain
